@@ -1,0 +1,48 @@
+body
+{
+  color: white;
+  background-image: url('https://thumbs.dreamstime.com/b/hands-gesture-bird-over-yellow-background-panoramic-mock-up-image-hands-gesture-bird-159093624.jpg');
+  background-size: cover;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 20px;
+  font-family:'Courier New', Courier, monospace;
+}
+label{
+  font-size: 14px;
+  background-color: burlywood;
+  color: brown;
+  border-radius: 10px;
+  border-width: 1px;
+  padding: 6px;
+  font-family:'Courier New', Courier, monospace;
+}
+p, b{
+  font-family: 'Courier New', Courier, monospace;
+}
+#camera, #result{
+background-color: rgb(104, 196, 192);
+}
